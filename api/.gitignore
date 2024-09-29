@@ -1,3 +1,19 @@
-**/__pycache__/
-/venv/
-app/__pycache__/
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# IDE/editor specific files
+*.vscode/
+*.idea/
+*.pydev/
+
+# Log files
+*.log
+
+# Environment variables
+.env
