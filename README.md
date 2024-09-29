@@ -4,7 +4,6 @@ Este manual fornece instruções detalhadas sobre como configurar, executar e ut
 
 ## Sumário
 
-
 - [Objetivo](#Objetivo)
 - [Arquitetura](#Arquitetura)
 
