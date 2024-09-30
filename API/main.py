@@ -8,7 +8,7 @@ import pandas as pd
 import boto3
 
 # Importar as configurações
-from app.config import CompeticaoEnum, CSV_FILES, COLUNAS_COMPETICOES
+from config import CompeticaoEnum, CSV_FILES, COLUNAS_COMPETICOES
 
 app = FastAPI(
     title="API de Dados de Futebol",

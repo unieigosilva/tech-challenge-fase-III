@@ -9,8 +9,8 @@ class CompeticaoEnum(str, Enum):
 
 # Caminhos para os arquivos CSV das competições
 CSV_FILES = {
-    CompeticaoEnum.brasileirao: "app/mundo_transfermarkt_competicoes_brasileirao_serie_a.csv",
-    CompeticaoEnum.copa_brasil: "app/mundo_transfermarkt_competicoes_copa_brasil.csv"
+    CompeticaoEnum.brasileirao: "Dados/mundo_transfermarkt_competicoes_brasileirao_serie_a.csv",
+    CompeticaoEnum.copa_brasil: "Dados/mundo_transfermarkt_competicoes_copa_brasil.csv"
 }
 
 # Nomes das colunas para cada competição
