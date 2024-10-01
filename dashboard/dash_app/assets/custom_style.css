@@ -1,0 +1,17 @@
+body {
+    background-color: #0E1012;
+}
+
+.Select-placeholder {
+    background-color: #0e1012;
+    color: #A0AABA;
+    border-radius: 0px;
+}
+
+.result-img {
+    width: 150px;
+}
+
+.info {
+    color: aliceblue;
+}
