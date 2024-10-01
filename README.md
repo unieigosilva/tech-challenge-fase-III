@@ -378,7 +378,7 @@ GET http://127.0.0.1:8000/colunas-disponiveis?competicao=copa_brasil
 
 ---
 # Manual de Utilização da DashBoard da Previsão de Dados de Futebol
-Veja mais detalhes no [README DashBoard](./dashboard/README_pt.md).
+Veja mais detalhes no [DashBoard](./dashboard/README_pt.md).
 
 
 $$
