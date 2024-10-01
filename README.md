@@ -129,7 +129,8 @@ Para utilizar o endpoint de envio para o S3, configure suas credenciais AWS:
 Execute a aplicação utilizando o Uvicorn:
 
 ```bash
-uvicorn app.main:app --reload
+cd ./API
+uvicorn main:app --reload
 ```
 
 - A opção `--reload` faz com que a aplicação seja recarregada automaticamente ao detectar mudanças no código.
