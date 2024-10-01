@@ -377,5 +377,8 @@ GET http://127.0.0.1:8000/colunas-disponiveis?competicao=copa_brasil
   - Para ambientes de produção, é recomendável configurar logs e monitoramento para acompanhar o desempenho e possíveis erros da aplicação.
 
 ---
+# Manual de Utilização da DashBoard da Previsão de Dados de Futebol
+Veja mais detalhes no [README DashBoard](./dashboard/README_pt.md).
+
 
 $$
